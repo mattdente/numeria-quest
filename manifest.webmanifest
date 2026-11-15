@@ -1,0 +1,16 @@
+{
+  "name": "Numeria Quest",
+  "short_name": "Numeria",
+  "description": "A maths adventure for Cambridge Lower Secondary Stage 7.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#2f7fa3",
+  "theme_color": "#17223b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
